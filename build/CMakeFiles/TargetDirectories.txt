@@ -1,0 +1,5 @@
+/home/lclcq/share/libflash_attn/build/CMakeFiles/edit_cache.dir
+/home/lclcq/share/libflash_attn/build/CMakeFiles/rebuild_cache.dir
+/home/lclcq/share/libflash_attn/build/src/CMakeFiles/flash_attn.dir
+/home/lclcq/share/libflash_attn/build/src/CMakeFiles/edit_cache.dir
+/home/lclcq/share/libflash_attn/build/src/CMakeFiles/rebuild_cache.dir
